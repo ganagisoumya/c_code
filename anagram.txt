@@ -8,7 +8,7 @@ string test1="silent"
 string test2="listen"
 if(isAnagram(test1,test2))
 {
-cout<<"strings are anagram"<<endl;
+cout<<"strings are anagram...."<<endl;
 }
 else
 {
